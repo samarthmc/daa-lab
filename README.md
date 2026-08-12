@@ -20,3 +20,9 @@ The program also measured the execution time and demonstrated efficient sorting 
 
 conclusion: The practical verified that Max Heap Sort is an efficient and reliable sorting algorithm with consistent
 O(n log n) performance and minimal extra memory usage.
+
+PRACTICAL 4
+
+Summary: Iterative functions use loops, while recursive functions call themselves until a base condition is reached. Both methods were implemented and their execution time and complexity were analyzed.
+
+Conclusion: Iteration generally uses less memory and is faster, while recursion can make some problems easier to understand and implement.
