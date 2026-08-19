@@ -26,3 +26,10 @@ PRACTICAL 4
 Summary: Iterative functions use loops, while recursive functions call themselves until a base condition is reached. Both methods were implemented and their execution time and complexity were analyzed.
 
 Conclusion: Iteration generally uses less memory and is faster, while recursion can make some problems easier to understand and implement.
+
+practical 7
+
+Summary: Coin Exchange finds the minimum number of coins needed to make a given amount using available coin denominations.
+
+Conclusion: This practical helped us understand Dynamic Programming and how it efficiently solves the coin exchange problem with O(A × C) time complexity.
+
