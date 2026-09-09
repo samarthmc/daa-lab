@@ -33,3 +33,22 @@ Summary: Coin Exchange finds the minimum number of coins needed to make a given 
 
 Conclusion: This practical helped us understand Dynamic Programming and how it efficiently solves the coin exchange problem with O(A × C) time complexity.
 
+PRACTICAL 5 
+
+Summary
+The 0/1 Knapsack Problem was implemented using Dynamic Programming to maximize the total value within a given capacity.
+
+Conclusion
+Dynamic Programming efficiently solves the problem by storing previously calculated results. The time complexity is O(n × W).
+
+
+PRACTICAL 6 
+
+Summary
+The Matrix Chain Multiplication problem was implemented using Dynamic Programming to find the minimum number of scalar multiplications.
+
+Conclusion
+Dynamic Programming efficiently finds the optimal order of matrix multiplication. The time complexity is O(n³).
+
+
+
